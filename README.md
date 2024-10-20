@@ -1,4 +1,6 @@
+# Password Generator 
 # React + Vite
+# For Live - [Link](https://generatedpass.netlify.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
